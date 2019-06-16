@@ -5,7 +5,4 @@
         "noImplicitAny": false,
         "sourceMap": false
     },
-    "files": [
-      "main.ts"
-    ]
 }
